@@ -37,8 +37,8 @@
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mahesh0201&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh0201&layout=compact&theme=dark)
 
 ---
 
@@ -50,9 +50,9 @@
 
 ## 📫 Connect With Me
 
-[![Email](https://img.shields.io/badge/Email-maheshpandi056%40gmail.com-red?style=flat-square&logo=gmail)](mailto:maheshpandi056@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](YOUR_LINKEDIN_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-maheshpandi056%40gmail.com-red?style=flat-square&logo=gmail)](mailto:maheshpandi001@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mahesh-pandi-4125a5218?utm_source=share_via&utm_content=profile&utm_medium=member_android))
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github)](https://github.com/mahesh0201)
 
 ---
 
