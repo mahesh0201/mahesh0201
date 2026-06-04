@@ -72,9 +72,9 @@ Embedded hardware system integrated into footwear using ultrasonic distance sens
 ---
 
 ### 🌐 Portfolio Website
-> `JavaScript` `HTML` `CSS`
+> `JavaScript` `React` `CSS`
 
-Personal developer portfolio showcasing projects and skills. [View on GitHub →](https://github.com/mahesh0201/Portfolio-Website)
+Personal developer portfolio showcasing projects and skills. [View The Protfolio →]([https://github.com/mahesh0201/Portfolio-Website](https://maheshpandi-portfolio.netlify.app/))
 
 ---
 
