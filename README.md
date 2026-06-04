@@ -20,7 +20,6 @@ Computer Science graduate from Sethu Institute of Technology (CGPA 8.9) with han
 Currently going deep into **cybersecurity** — actively testing on HackerOne bug bounty programs, studying the OWASP Top 10, and sharpening web application security skills using Burp Suite.
 
 - Working with **React Native + Python** at Jozuna
-- Hunting bugs on **HackerOne** (Meesho program)
 - Learning **web app pentesting** — OWASP, Burp Suite, recon
 - Building toward a **cybersecurity + backend** career
 
@@ -83,18 +82,6 @@ Personal developer portfolio showcasing projects and skills. [View The Protfolio
 
 Building recon and web app security automation tools. Focused on bug bounty methodology, vulnerability scanning, and threat detection. Actively testing on HackerOne.
 
----
-
-## GitHub stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=mahesh0201&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahesh0201&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
 
 ## 2026 focus
 
